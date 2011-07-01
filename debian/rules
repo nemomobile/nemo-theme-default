@@ -1,0 +1,17 @@
+#!/usr/bin/make -f
+
+clean:
+	dh_testdir
+	dh_auto_clean
+	dh_testroot
+	dh_clean
+build:
+	dh_testdir
+binary:
+	dh_testroot
+	dh_installdirs
+	dh_install
+	dh_gencontrol
+	dh_md5sums
+	dh_builddeb
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 15.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="meegotouch-temporary-assets-layer"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="400px" height="302px"
+	 viewBox="0 0 400 302" style="enable-background:new 0 0 400 302;" xml:space="preserve">
+<g id="meegotouch-temporary-assets">
+	<rect id="_x23_background" style="fill:#E4E4E4;" width="400" height="302"/>
+	<g id="meegotouch-toolbar-textbutton-inverted-background-selected">
+		<g style="opacity:0.4;">
+			<path d="M346,87.5c0,7.15-5.85,13-13,13h-40c-7.15,0-13-5.85-13-13v-16c0-7.15,5.85-13,13-13h40c7.15,0,13,5.85,13,13V87.5z"/>
+		</g>
+	</g>
+	<g id="meegotouch-toolbar-textbutton-inverted-background-pressed">
+		<g style="opacity:0.2;">
+			<path d="M266,87.5c0,7.15-5.85,13-13,13h-40c-7.149,0-13-5.85-13-13v-16c0-7.15,5.85-13,13-13h40c7.15,0,13,5.85,13,13V87.5z"/>
+		</g>
+	</g>
+	<g id="meegotouch-toolbar-textbutton-inverted-background-disabled">
+		<g style="opacity:0.1;">
+			<path d="M186,87.5c0,7.15-5.85,13-13,13h-40c-7.15,0-13-5.85-13-13v-16c0-7.15,5.85-13,13-13h40c7.15,0,13,5.85,13,13V87.5z"/>
+		</g>
+	</g>
+	<g id="meegotouch-toolbar-textbutton-inverted-background">
+		<g style="opacity:0.3;">
+			<path d="M106,87.5c0,7.15-5.85,13-13,13H53c-7.15,0-13-5.85-13-13v-16c0-7.15,5.85-13,13-13h40c7.15,0,13,5.85,13,13V87.5z"/>
+		</g>
+	</g>
+	<g id="meegotouch-lockscreen-notification-background" style="opacity:0.2;">
+		<path d="M106,241.5c0,3.85-3.15,7-7,7H47c-3.85,0-7-3.15-7-7v-26c0-3.85,3.15-7,7-7h52c3.85,0,7,3.15,7,7V241.5z"/>
+	</g>
+	<g id="meegotouch-tabbar-landscape-bottom-inverted-background" style="opacity:0.05;">
+		<rect x="120" y="208.5" width="66" height="40"/>
+	</g>
+	<g id="meegotouch-tabbar-portrait-bottom-inverted-background" style="opacity:0.05;">
+		<rect x="200" y="208.5" width="66" height="40"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,5 @@
+meegotouchtheme-graphics (1.0) unreleased; urgency=low
+
+  * External graphics package for meegotouch-theme.
+
+ -- Daniel Borgmann <danielb@openismus.com>  Mon, 30 May 2011 11:20:47 +0300

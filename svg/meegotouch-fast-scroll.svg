@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="meegotouch-fast-scroll-layer"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="970px" height="190px"
+	 viewBox="0 0 970 190" style="enable-background:new 0 0 970 190;" xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+@font-face{font-family:'NokiaStandard-Light';src:url("data:;base64,\
+T1RUTwADACAAAQAQQ0ZGIGXoRnoAAACoAAAEQkdQT1OwFMASAAAE7AAAALBjbWFwAckCbwAAADwA\
+AABsAAAAAQAAAAMAAAAMAAQAYAAAABQAEAADAAQAIABGAGEAZQBpAGwAbwB0AHb//wAAACAARgBh\
+AGMAaQBsAG4AcgB2////4f+8/6L/of+e/5z/m/+Z/5gAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQAE\
+AgABAQEUTm9raWFTdGFuZGFyZC1MaWdodAABAQEl+BsB+BYE+BwMFftT+2YcBLL6WgUdAEPPYg33\
+KA/3RBGz+q4SAAIBATtIQ29weXJpZ2h0IChjKSAyMDA1IE5va2lhIENvcnBvcmF0aW9uLiBBbGwg\
+UmlnaHRzIFJlc2VydmVkLi9GU1R5cGUgOCBkZWYAAAEAAQAAJwAAQgAARAIASgAATQAATwEAUwIA\
+VwAADwIAAQAkACcASwCsAOwBQQGVAcUB2QITAl8CkwLqAyQDSLiLyfjvygHCyfeoyQP4Wxb5bPwk\
+/WwHyfktFfeo/O/7qAYO+2QOiqB29+zB96jBAefPA/hB+WwV++X9bM/37Pdqwftq96j3oQYOu4O/\
+dHb3r7z3Ur8SvM33gcwTfPgLFrX4IAb3DFLF+wRbVoN8WB5WB5y+u5K7G9mqXzYfTgf7Hfs6gPs7\
+HxO8J8NN79C/qsSvHhN8gfdfFTQHE7wuTlBCR2i00PTmo+QeDmuDv/hyvwHGzwP4GMUVg29ohWgb\
++wVZ3vc39zvMzPOuqIWEox/AB5F0bJFnG/stOSb7S/tg2C33JLKwkJSrHw7jg7/4cr/3W3cBxs/3\
+m8wD+Fv5mRVK+58GvGdknlIb+xdHIPtJ+zi3+xb3J863o8exH5lABbUGTvexFSSG+x/7FiVt9wH3\
+GvcUp/b29wma+wr7Ch4OtoO/93S992C/AcbO94/LA/g5zRV+XVyCWRv7C2v19wqKH/fPBvcUg/dG\
++z/7MFz7N/sU+ym1+yL3Qb29k5q6Hvu598MV4ZGf9wr3ARvylvsTPh8O+2Ggdvi1oNvzAezMA/c/\
++U4Vp3yjcG9+dG5vmHOnp5mjpx6C+xgV+xZXzPyWzAYOoHb5mXcB48wD9y35mRVK/ZnMBg7soHb4\
+nr+DdxLjzPeMzBO49xf4yhVg/MrM9/cGE9jjt9rs3qNKMh78BMz4Fgf3EFfL+wpMU2dXah4O3IO/\
++HK/AcbP967PA/hx97gV9x5a9yT7NPsxV/sl+x37IrD7MvdA9zm39yn3Kx5HjxUlhPsq+xj7Enr3\
+Lerrnvca9w73CKT7HjMeDiCgdviTyIV3EuPME7D3F/jKFWD8ysz38AYT0O68y92bmIqKlx7IB4yC\
+fYyBG01ZbkxoHw5Zg7/4cr8Bx8z3O8wD9+j4whWVaGiRYhsuP1coMMxmyGwfx2y5cUoaRF1wS2dY\
+k5hcHlQHgrG9grIb9wPSu/cI50ixSK4fTKxonsUayLOpybiphn+xHg77E4O/+Gq/9XcB68wD983G\
+FYJrbYVtG1WFr7sf+Bb3Hb/7HfVcB3chBU5XyvwiBkOkV+Ots5OTqR4OjKB2+Mp3AfgL+MoV+yb8\
+i/si+IsFRwb3OvzKBdsG90L4ygUOg5P4ypT3LZOwkwb7Oo4HHqERER8MCcAKzQu7kAwMzaAMDfeF\
+FPhbFQAAAAEAAAAKAB4ALAABREZMVAAIAAQAAAAA//8AAQAAAAFrZXJuAAgAAAABAAAAAQAEAAIA\
+AAABAAgAAQBqAAQAAAAFABQAIgA4AFIAZAADAAP/1gAG/+YACv/mAAUAA//6AAT/8gAF//IABv/y\
+AAr/8gAGAAP/5gAE//IABf/yAAb/8gAK//IADP/8AAQABP/4AAX/+AAG//gACv/4AAEAA//2AAEA\
+BQACAAQACwANAA4=")}
+]]>
+</style>
+<pattern  y="190" width="72" height="72" patternUnits="userSpaceOnUse" id="RGB_White" viewBox="0 -72 72 72" style="overflow:visible;">
+	<g>
+		<polygon style="fill:none;" points="0,0 72,0 72,-72 0,-72 		"/>
+		<polygon style="fill:#FFFFFF;" points="72,-72 0,-72 0,0 72,0 		"/>
+	</g>
+</pattern>
+<g id="meegotouch-fast-scroll">
+	<g id="_x23_FastSctollThemeHelper">
+		<g>
+			<path d="M970,178c0,6.6-5.4,12-12,12H502c-6.6,0-12-5.4-12-12V12c0-6.6,5.4-12,12-12h456c6.6,0,12,5.4,12,12V178z"/>
+		</g>
+		<g>
+			<path style="fill:#F0F0F1;" d="M12,189.5c-6.341,0-11.5-5.159-11.5-11.5V12C0.5,5.659,5.659,0.5,12,0.5h456
+				c6.341,0,11.5,5.159,11.5,11.5v166c0,6.341-5.159,11.5-11.5,11.5H12z"/>
+			<path style="fill:#929497;" d="M468,1c6.065,0,11,4.935,11,11v166c0,6.065-4.935,11-11,11H12c-6.065,0-11-4.935-11-11V12
+				C1,5.935,5.935,1,12,1H468 M468,0H12C5.4,0,0,5.4,0,12v166c0,6.6,5.4,12,12,12h456c6.6,0,12-5.4,12-12V12C480,5.4,474.6,0,468,0
+				L468,0z"/>
+		</g>
+		<text transform="matrix(1 0 0 1 517.0459 41.1045)" style="fill:#FFFFFF; font-family:'NokiaStandard-Light'; font-size:36;">Fast scroll indicator inverted</text>
+		<g>
+			<path d="M110.706,16.844h-9.683v9.935h7.703v1.944h-7.703v12.382h-2.448V14.9h12.13V16.844z"/>
+			<path d="M123.126,38.225c-1.296,2.052-3.167,3.168-5.651,3.168c-3.6,0-5.615-2.232-5.615-5.832c0-6.011,5.975-6.407,10.907-6.407
+				v-2.196c0-3.06-1.116-4.643-3.924-4.643c-1.728,0-3.456,0.252-5.291,0.864v-1.908c1.835-0.54,3.743-0.828,5.471-0.828
+				c4.031,0,6.083,2.088,6.083,6.407v14.254h-1.512L123.126,38.225z M120.715,30.918c-3.204,0-6.479,0.864-6.479,4.643
+				c0,2.484,1.26,3.959,3.708,3.959c2.628,0,4.824-2.124,4.824-5.471v-3.131H120.715z"/>
+			<path d="M140.442,22.927c-1.368-0.432-2.448-0.612-4.068-0.612c-2.231,0-3.671,1.08-3.671,3.275c0,2.088,1.26,2.772,3.527,3.959
+				c2.412,1.26,4.824,2.628,4.824,5.939c0,4.175-2.556,5.903-6.551,5.903c-1.404,0-3.204-0.324-4.571-0.648v-1.98
+				c1.691,0.468,3.527,0.756,4.823,0.756c2.304,0,3.959-0.972,3.959-3.527c0-2.34-1.656-3.275-3.815-4.392
+				c-2.196-1.116-4.536-2.448-4.536-5.723c0-3.563,2.736-5.436,6.083-5.436c1.476,0,2.735,0.216,3.996,0.576V22.927z"/>
+			<path d="M154.05,40.816c-1.08,0.288-2.52,0.576-3.744,0.576c-3.167,0-4.067-1.872-4.067-4.463V22.603h-2.268v-1.872h2.195
+				l0.72-3.815h1.692v3.815h4.931v1.872h-4.931v13.894c0,1.728,0.216,3.023,2.16,3.023c1.08,0,2.16-0.216,3.312-0.54V40.816z"/>
+			<path d="M175.722,22.927c-1.368-0.432-2.448-0.612-4.068-0.612c-2.231,0-3.671,1.08-3.671,3.275c0,2.088,1.26,2.772,3.527,3.959
+				c2.412,1.26,4.824,2.628,4.824,5.939c0,4.175-2.556,5.903-6.551,5.903c-1.404,0-3.204-0.324-4.571-0.648v-1.98
+				c1.691,0.468,3.527,0.756,4.823,0.756c2.304,0,3.959-0.972,3.959-3.527c0-2.34-1.656-3.275-3.815-4.392
+				c-2.196-1.116-4.536-2.448-4.536-5.723c0-3.563,2.736-5.436,6.083-5.436c1.476,0,2.735,0.216,3.996,0.576V22.927z"/>
+			<path d="M192.029,40.889c-1.152,0.324-2.484,0.504-3.888,0.504c-5.183,0-7.955-3.384-7.955-10.727
+				c0-6.587,2.952-10.223,8.459-10.223c1.296,0,2.412,0.216,3.24,0.432v1.908c-0.864-0.252-1.908-0.468-3.167-0.468
+				c-3.744,0-6.083,2.339-6.083,8.351c0,5.867,1.8,8.854,5.867,8.854c1.26,0,2.52-0.216,3.528-0.504V40.889z"/>
+			<path d="M198.51,23.827c1.26-2.268,3.06-3.312,5.292-3.312c0.36,0,0.864,0.036,1.188,0.072v2.196
+				c-0.432-0.036-0.9-0.072-1.476-0.072c-2.952,0-4.715,2.304-4.715,5.867v12.526h-2.34V20.731h1.548L198.51,23.827z"/>
+			<path d="M214.961,41.393c-6.191,0-7.523-5.688-7.523-10.799c0-4.931,1.872-10.151,7.523-10.151c5.759,0,7.523,5.184,7.523,10.151
+				C222.484,36.029,220.9,41.393,214.961,41.393z M214.961,22.315c-4.392,0-5.076,4.823-5.076,8.279
+				c0,3.419,0.612,8.927,5.147,8.927c4.751,0,5.003-5.399,5.003-9.071C220.037,27.282,219.137,22.315,214.961,22.315z"/>
+			<path d="M230.118,41.104h-2.34V13.28h2.34V41.104z"/>
+			<path d="M238.793,41.104h-2.339V13.28h2.339V41.104z"/>
+			<path d="M256.685,41.104h-2.339V22.603h-2.34v-1.872h4.679V41.104z M255.498,17.852c-1.008,0-1.476-0.864-1.476-1.872
+				c0-1.044,0.468-1.872,1.476-1.872c0.972,0,1.512,0.864,1.512,1.872S256.505,17.852,255.498,17.852z"/>
+			<path d="M265.037,23.611c1.188-1.872,3.204-3.168,5.472-3.168c4.247,0,6.119,2.304,6.119,6.768v13.894h-2.34V27.858
+				c0-3.204-0.864-5.543-3.852-5.543c-3.491,0-5.075,2.844-5.075,6.011v12.778h-2.34V20.731h1.548L265.037,23.611z"/>
+			<path d="M296.104,41.068h-1.512l-0.504-2.7c-1.368,2.16-2.952,3.024-5.363,3.024c-5.292,0-6.875-4.68-6.875-10.583
+				c0-6.515,2.448-10.367,7.163-10.367c2.052,0,3.456,0.684,4.751,2.448V13.28h2.34V41.068z M289.156,22.315
+				c-3.852,0-4.859,3.852-4.859,8.459c0,4.823,1.08,8.747,4.751,8.747c4.679,0,4.859-5.003,4.859-8.711
+				C293.908,26.562,293.368,22.315,289.156,22.315z"/>
+			<path d="M305.104,41.104h-2.339V22.603h-2.34v-1.872h4.679V41.104z M303.917,17.852c-1.008,0-1.476-0.864-1.476-1.872
+				c0-1.044,0.468-1.872,1.476-1.872c0.972,0,1.512,0.864,1.512,1.872S304.925,17.852,303.917,17.852z"/>
+			<path d="M322.24,40.889c-1.152,0.324-2.484,0.504-3.888,0.504c-5.183,0-7.955-3.384-7.955-10.727
+				c0-6.587,2.952-10.223,8.459-10.223c1.296,0,2.412,0.216,3.24,0.432v1.908c-0.864-0.252-1.908-0.468-3.167-0.468
+				c-3.744,0-6.083,2.339-6.083,8.351c0,5.867,1.8,8.854,5.867,8.854c1.26,0,2.52-0.216,3.528-0.504V40.889z"/>
+			<path d="M336.315,38.225c-1.296,2.052-3.167,3.168-5.651,3.168c-3.6,0-5.615-2.232-5.615-5.832c0-6.011,5.976-6.407,10.907-6.407
+				v-2.196c0-3.06-1.116-4.643-3.923-4.643c-1.728,0-3.456,0.252-5.292,0.864v-1.908c1.836-0.54,3.744-0.828,5.471-0.828
+				c4.032,0,6.083,2.088,6.083,6.407v14.254h-1.512L336.315,38.225z M333.904,30.918c-3.204,0-6.479,0.864-6.479,4.643
+				c0,2.484,1.26,3.959,3.708,3.959c2.627,0,4.823-2.124,4.823-5.471v-3.131H333.904z"/>
+			<path d="M352.659,40.816c-1.08,0.288-2.52,0.576-3.743,0.576c-3.168,0-4.067-1.872-4.067-4.463V22.603h-2.268v-1.872h2.196
+				l0.72-3.815h1.692v3.815h4.932v1.872h-4.932v13.894c0,1.728,0.216,3.023,2.16,3.023c1.08,0,2.16-0.216,3.312-0.54V40.816z"/>
+			<path d="M362.56,41.393c-6.191,0-7.523-5.688-7.523-10.799c0-4.931,1.872-10.151,7.523-10.151c5.759,0,7.523,5.184,7.523,10.151
+				C370.083,36.029,368.499,41.393,362.56,41.393z M362.56,22.315c-4.392,0-5.076,4.823-5.076,8.279
+				c0,3.419,0.612,8.927,5.147,8.927c4.751,0,5.003-5.399,5.003-9.071C367.635,27.282,366.735,22.315,362.56,22.315z"/>
+			<path d="M377.428,23.827c1.26-2.268,3.06-3.312,5.292-3.312c0.36,0,0.864,0.036,1.188,0.072v2.196
+				c-0.432-0.036-0.9-0.072-1.476-0.072c-2.952,0-4.715,2.304-4.715,5.867v12.526h-2.34V20.731h1.548L377.428,23.827z"/>
+		</g>
+	</g>
+	<g id="meegotouch-fast-scroll-handle-inverted">
+		<path style="opacity:0.2;fill:url(#RGB_White);" d="M954,108.001c0,5.929-2.075,8-8,8c-5.924,0-8-2.071-8-8c0-5.926,2.076-8,8-8
+			C951.925,100.001,954,102.075,954,108.001z"/>
+		<path style="opacity:0.9;" d="M950,108.001c0,2.964-1.037,4-4,4s-4-1.036-4-4s1.037-4,4-4S950,105.037,950,108.001z"/>
+	</g>
+	<g id="meegotouch-fast-scroll-rail-inverted">
+		<rect x="864" y="100.001" style="opacity:0.3;fill:#FFFFFF;" width="64" height="64"/>
+	</g>
+	<g id="meegotouch-fast-scroll-magnifier-inverted">
+		<rect x="790" y="100" style="opacity:0.7;fill:#FFFFFF;" width="64" height="64"/>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="822" y1="152.001" x2="822" y2="100.001">
+			<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+			<stop  offset="0.9104" style="stop-color:#FFFFFF;stop-opacity:0.9104"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<rect x="790" y="100.001" style="opacity:0.1;fill:url(#SVGID_1_);" width="64" height="52"/>
+	</g>
+	<g id="meegotouch-scroll-bubble-divider-inverted">
+		<rect x="698.001" y="130" style="opacity:0.1;" width="48" height="1"/>
+		<rect x="690.001" y="130" style="opacity:0;fill:#FFFFFF;" width="64" height="1"/>
+	</g>
+	<g id="meegotouch-scroll-bubble-arrow-inverted">
+		<polygon style="opacity:0.95;fill:#FFFFFF;" points="670.001,124 678.001,132 670.001,140 		"/>
+	</g>
+	<g id="meegotouch-scroll-bubble-background-inverted">
+		<g style="opacity:0.95;">
+			<path style="fill:#FFFFFF;" d="M654.001,156c0,4.4-3.601,8-8,8h-48c-4.4,0-8-3.6-8-8v-48c0-4.4,3.6-8,8-8h48c4.399,0,8,3.6,8,8
+				V156z"/>
+		</g>
+	</g>
+	<g id="meegotouch-fast-scroll-handle">
+		<path style="opacity:0.1;" d="M454,108c0,5.929-2.075,8-8,8c-5.924,0-8-2.071-8-8c0-5.926,2.076-8,8-8
+			C451.925,100,454,102.074,454,108z"/>
+		<path style="fill:#FFFFFF;" d="M450,108c0,2.964-1.037,4-4,4s-4-1.036-4-4c0-2.963,1.037-4,4-4S450,105.037,450,108z"/>
+	</g>
+	<g id="meegotouch-fast-scroll-rail">
+		<rect x="364" y="100" style="opacity:0.2;" width="64" height="64"/>
+	</g>
+	<g id="meegotouch-fast-scroll-magnifier">
+		<rect x="290" y="100" style="opacity:0.8;" width="64" height="64"/>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="322" y1="152.001" x2="322" y2="100.001">
+			<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+			<stop  offset="0.9104" style="stop-color:#FFFFFF;stop-opacity:0.9104"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<rect x="290" y="100.001" style="opacity:0.1;fill:url(#SVGID_2_);" width="64" height="52"/>
+	</g>
+	<g id="meegotouch-scroll-bubble-divider">
+		<rect x="198" y="130" style="opacity:0.1;fill:#FFFFFF;" width="48" height="1"/>
+		<rect x="190" y="130" style="opacity:0;fill:#FFFFFF;" width="64" height="1"/>
+	</g>
+	<g id="meegotouch-scroll-bubble-arrow">
+		<polygon style="opacity:0.95;" points="174,124 182,132 174,140 		"/>
+	</g>
+	<g id="meegotouch-scroll-bubble-background">
+		<g style="opacity:0.95;">
+			<path d="M164,156c0,4.4-3.6,8-8,8h-48c-4.4,0-8-3.6-8-8v-48c0-4.4,3.6-8,8-8h48c4.4,0,8,3.6,8,8V156z"/>
+		</g>
+	</g>
+</g>
+</svg>
