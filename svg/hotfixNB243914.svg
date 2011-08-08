@@ -66,53 +66,50 @@
 				v-2.603c0-0.408,0.012-0.815,0.036-1.224h-0.036c-0.24,0.456-0.432,0.792-0.648,1.151l-1.907,2.65v0.024H158.962z"/>
 		</g>
 	</g>
-	<g id="meegotouch-text-editor-bottom-tail">
-		<rect x="324" y="149" style="fill:#E6E6E6;" width="32" height="32"/>
-	</g>
 	<g id="meegotouch-text-editor-horizontal-center">
-		<rect x="282" y="149" style="fill:#E6E6E6;" width="32" height="32"/>
+		<rect x="282" y="149" style="fill:#F6F6E6;" width="64" height="64"/>
 	</g>
 	<g id="meegotouch-text-editor-horizontal-left">
-		<rect x="240" y="149" style="fill:#E6E6E6;" width="32" height="32"/>
+		<rect x="240" y="149" style="fill:#F6F6E6;" width="64" height="64"/>
 	</g>
 	<g id="meegotouch-text-editor-horizontal-right">
-		<rect x="198" y="149" style="fill:#E6E6E6;" width="32" height="32"/>
+		<rect x="198" y="149" style="fill:#F6F6E6;" width="64" height="64"/>
 	</g>
 	<g id="meegotouch-text-editor-mode-horizontal-right">
-		<rect x="156" y="149" style="fill:#E6E6E6;" width="32" height="32"/>
+		<rect x="156" y="149" style="fill:#e2e2e3;" width="64" height="64"/>
 	</g>
 	<g id="meegotouch-text-editor-mode-pressed-horizontal-right">
-		<rect x="114" y="149" style="fill:#E6E6E6;" width="32" height="32"/>
+		<rect x="114" y="149" style="fill:#9b9b9b;" width="64" height="64"/>
 	</g>
 	<g id="meegotouch-text-editor-mode-selected-horizontal-right">
-		<rect x="72" y="149" style="fill:#E6E6E6;" width="32" height="32"/>
+		<rect x="72" y="149" style="fill:#bcbcbc;" width="64" height="64"/>
 	</g>
 	<g id="meegotouch-text-editor-pressed-horizontal-center">
-		<rect x="30" y="151" style="fill:#E6E6E6;" width="32" height="32"/>
+		<rect x="30" y="151" style="fill:#9b9b9b;" width="64" height="64"/>
 	</g>
 	<g id="meegotouch-text-editor-pressed-horizontal-left">
-		<rect x="491" y="112" style="fill:#E6E6E6;" width="32" height="32"/>
+		<rect x="491" y="112" style="fill:#9b9b9b;" width="64" height="64"/>
 	</g>
 	<g id="meegotouch-text-editor-pressed-horizontal-right">
-		<rect x="449" y="112" style="fill:#E6E6E6;" width="32" height="32"/>
+		<rect x="449" y="112" style="fill:#9b9b9b;" width="64" height="64"/>
 	</g>
 	<g id="meegotouch-text-editor-pressed">
-		<rect x="407" y="112" style="fill:#E6E6E6;" width="32" height="32"/>
+		<rect x="407" y="112" style="fill:#9b9b9b;" width="64" height="64"/>
 	</g>
 	<g id="meegotouch-text-editor-selected-horizontal-center">
-		<rect x="365" y="112" style="fill:#E6E6E6;" width="32" height="32"/>
+		<rect x="365" y="112" style="fill:#bcbcbc;" width="64" height="64"/>
+	</g>
+	<g id="meegotouch-text-editor-selected">
+		<rect x="365" y="112" style="fill:#bcbcbc;" width="64" height="64"/>
 	</g>
 	<g id="meegotouch-text-editor-selected-horizontal-left">
-		<rect x="323" y="112" style="fill:#E6E6E6;" width="32" height="32"/>
+		<rect x="323" y="112" style="fill:#bcbcbc;" width="64" height="64"/>
 	</g>
 	<g id="meegotouch-text-editor-selected-horizontal-right">
-		<rect x="281" y="112" style="fill:#E6E6E6;" width="32" height="32"/>
-	</g>
-	<g id="meegotouch-text-editor-top-tail">
-		<rect x="239" y="112" style="fill:#E6E6E6;" width="32" height="32"/>
+		<rect x="281" y="112" style="fill:#bcbcbc;" width="64" height="64"/>
 	</g>
 	<g id="meegotouch-text-editor">
-		<rect x="197" y="112" style="fill:#E6E6E6;" width="32" height="32"/>
+		<rect x="324" y="149" style="fill:#bcbcbc;" width="64" height="64"/>
 	</g>
 	<g id="keypad-section-background_0_0">
 		<rect x="155" y="112" style="fill:#E6E6E6;" width="32" height="32"/>
@@ -152,15 +149,6 @@
 	</g>
 	<g id="meegotouch-countbubble-background-large">
 		<rect x="155" y="70" style="fill:#E6E6E6;" width="32" height="32"/>
-	</g>
-	<g id="meegotouch-button-checkbox-background-selected-disabled">
-		<rect x="113" y="70" style="fill:#E6E6E6;" width="32" height="32"/>
-	</g>
-	<g id="meegotouch-button-checkbox-background-selected">
-		<rect x="72" y="70" style="fill:#E6E6E6;" width="32" height="32"/>
-	</g>
-	<g id="meegotouch-button-checkbox-background-disabled">
-		<rect x="30" y="70" style="fill:#E6E6E6;" width="32" height="32"/>
 	</g>
 </g>
 </svg>
