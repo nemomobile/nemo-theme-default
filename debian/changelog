@@ -1,5 +1,6 @@
 meegotouchtheme-graphics (1.0) unreleased; urgency=low
 
-  * External graphics package for meegotouch-theme.
+  * New version
+  * First release of meegotouchtheme-graphics
 
- -- Daniel Borgmann <danielb@openismus.com>  Mon, 30 May 2011 11:20:47 +0300
+ -- Adrian Yanes <ext-adrian.yanes@nokia.com>  Wed, 10 Aug 2011 14:57:11 +0300
