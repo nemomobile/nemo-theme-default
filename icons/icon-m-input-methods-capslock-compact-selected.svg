@@ -19,7 +19,7 @@
    style="enable-background:new 0 0 48 48;"
    xml:space="preserve"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="icon-m-input-methods-capslock-compact.svg"><metadata
+   sodipodi:docname="icon-m-input-methods-capslock-compact-selected.svg"><metadata
    id="metadata14"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -50,7 +50,7 @@
    inkscape:window-maximized="1"
    inkscape:current-layer="icon-m-input-methods-capslock-layer" />
 <g
-   id="icon-m-input-methods-capslock">
+   id="icon-m-input-methods-capslock-selected">
 	<rect
    style="opacity:0.35;fill:none;"
    width="48"

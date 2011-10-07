@@ -135,16 +135,6 @@
 			</linearGradient>
 			<path style="fill:url(#SVGID_3_);" d="M252,119c0-5.5-4.5-10-10-10h-38v46h48V119z"/>
 		</g>
-		<g id="meegotouch-textedit-button-background-pressed">
-			<path style="fill:#333333;" d="M204,96h37.676C247.354,96,252,91.5,252,86V60c0-5.5-4.646-10-10.324-10H204V96z"/>
-			<path style="fill:#FFFFFF;" d="M204,98h37.676C247.354,98,252,93.5,252,88V62c0-5.5-4.646-10-10.324-10H204V98z"/>
-			
-				<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-597.0005" y1="51.0005" x2="-597.0005" y2="97.0005" gradientTransform="matrix(-1 0 0 1 -369 0)">
-				<stop  offset="0" style="stop-color:#4D4D4D"/>
-				<stop  offset="1" style="stop-color:#B3B3B3"/>
-			</linearGradient>
-			<path style="fill:url(#SVGID_4_);" d="M204,51h37.676C247.354,51,252,55.5,252,61v26c0,5.5-4.646,10-10.324,10H204V51z"/>
-		</g>
 		<g id="meegotouch-textedit-combo-background-selected-vertical-bottom">
 			<path style="fill:#CCCCCC;" d="M146,261c0,5.5,4.5,10,10,10h38v-46h-48V261z"/>
 			<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="170.0005" y1="270" x2="170.0005" y2="223">
@@ -210,17 +200,6 @@
 			</linearGradient>
 			<path style="fill:url(#SVGID_9_);" d="M136,119c0-5.5-4.5-10-10-10H88v46h48V119z"/>
 			<rect x="88" y="109" style="fill:#FFFFFF;" width="1" height="46"/>
-		</g>
-		<g id="meegotouch-textedit-button-background">
-			<path style="fill:#808080;" d="M88,52h37.676C131.354,52,136,56.5,136,62v26c0,5.5-4.646,10-10.324,10H88V52z"/>
-			<path style="fill:#FFFFFF;" d="M88,50h37.676C131.354,50,136,54.5,136,60v26c0,5.5-4.646,10-10.324,10H88V50z"/>
-			
-				<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="-481" y1="51.0005" x2="-481" y2="97.0005" gradientTransform="matrix(-1 0 0 1 -369 0)">
-				<stop  offset="0" style="stop-color:#F2F2F2"/>
-				<stop  offset="1" style="stop-color:#D1D1D1"/>
-			</linearGradient>
-			<path style="fill:url(#SVGID_10_);" d="M88,51h37.676C131.354,51,136,55.5,136,61v26c0,5.5-4.646,10-10.324,10H88V51z"/>
-			<rect x="88" y="51" style="fill:#FFFFFF;" width="1.031" height="46"/>
 		</g>
 		<g id="meegotouch-textedit-combo-background-vertical-bottom">
 			<path style="fill:#CCCCCC;" d="M30,261c0,5.5,4.5,10,10,10h38v-46H30V261z"/>

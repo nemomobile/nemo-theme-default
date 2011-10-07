@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   id="icon-m-common-bluetooth-layer"
+   id="icon-m-bluetooth-layer"
    x="0px"
    y="0px"
    width="48px"
@@ -19,7 +19,7 @@
    style="enable-background:new 0 0 48 48;"
    xml:space="preserve"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="icon-m-common-bluetooth.svg"><metadata
+   sodipodi:docname="icon-m-bluetooth.svg"><metadata
    id="metadata11"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -48,9 +48,9 @@
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="icon-m-common-bluetooth-layer" />
+   inkscape:current-layer="icon-m-bluetooth-layer" />
 <g
-   id="icon-m-common-bluetooth">
+   id="icon-m-bluetooth">
 	<rect
    style="fill:none;"
    width="48"

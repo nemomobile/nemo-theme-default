@@ -19,7 +19,7 @@
    style="enable-background:new 0 0 48 48;"
    xml:space="preserve"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="icon-m-input-methods-enter.svg"><metadata
+   sodipodi:docname="icon-m-input-methods-enter-selected.svg"><metadata
    id="metadata12"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -50,7 +50,7 @@
    inkscape:window-maximized="0"
    inkscape:current-layer="icon-m-input-methods-enter-layer" />
 <g
-   id="icon-m-input-methods-enter">
+   id="icon-m-input-methods-enter-selected">
 	<polygon
    style="fill:#ffffff;fill-opacity:1"
    points="37.459,12.594 37.457,26.998 19.377,27.016 19.377,35.116 8.809,24.348 19.377,13.566    19.375,21.275 33.098,21.275 33.098,18.715 21.936,18.715 21.937,7.299 5.225,24.348 21.936,41.377 21.936,29.571 40.02,29.571    40.02,12.594  "
