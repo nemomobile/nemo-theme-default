@@ -1,3 +1,10 @@
+meegotouchtheme-graphics (1.0.2) unreleased; urgency=low
+
+  * New version
+  * Fixes: NB#277732 - Missing referenced graphics in base theme
+
+ -- Adrian Yanes <ext-adrian.yanes@nokia.com>  Fri, 07 Oct 2011 13:00:46 +0200
+
 meegotouchtheme-graphics (1.0.1) unreleased; urgency=low
 
   * New version
