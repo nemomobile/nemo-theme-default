@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   id="icon-m-image-edit-contrast-brightness-layer"
+   id="icon-s-image-edit-high-brightness-layer"
    x="0px"
    y="0px"
    width="48px"
@@ -42,9 +42,9 @@
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
-   inkscape:current-layer="icon-m-image-edit-contrast-brightness" />
+   inkscape:current-layer="icon-s-image-edit-high-brightness" />
 <g
-   id="icon-m-image-edit-contrast-brightness">
+   id="icon-s-image-edit-high-brightness">
 	<rect
    style="fill:none;"
    width="48"
