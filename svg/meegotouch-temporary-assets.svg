@@ -1,39 +1,94 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 15.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="meegotouch-temporary-assets-layer"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="400px" height="302px"
-	 viewBox="0 0 400 302" style="enable-background:new 0 0 400 302;" xml:space="preserve">
-<g id="meegotouch-temporary-assets">
-	<rect id="_x23_background" style="fill:#E4E4E4;" width="400" height="302"/>
-	<g id="meegotouch-toolbar-textbutton-inverted-background-selected">
-		<g style="fill:#E4E4E4;">
-			<path d="M346,87.5c0,7.15-5.85,13-13,13h-40c-7.15,0-13-5.85-13-13v-16c0-7.15,5.85-13,13-13h40c7.15,0,13,5.85,13,13V87.5z"/>
-		</g>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="meegotouch-temporary-assets-layer"
+   x="0px"
+   y="0px"
+   width="400px"
+   height="302px"
+   viewBox="0 0 400 302"
+   style="enable-background:new 0 0 400 302;"
+   xml:space="preserve"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="meegotouch-temporary-assets.svg"><metadata
+   id="metadata38"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs36"><inkscape:perspective
+     sodipodi:type="inkscape:persp3d"
+     inkscape:vp_x="0 : 151 : 1"
+     inkscape:vp_y="0 : 1000 : 0"
+     inkscape:vp_z="400 : 151 : 1"
+     inkscape:persp3d-origin="200 : 100.66667 : 1"
+     id="perspective40" /></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="982"
+   inkscape:window-height="682"
+   id="namedview34"
+   showgrid="false"
+   inkscape:zoom="1.084522"
+   inkscape:cx="216.90254"
+   inkscape:cy="149.72034"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="meegotouch-temporary-assets-layer" />
+<g
+   id="meegotouch-temporary-assets"
+   transform="translate(0.92206521,0)">
+	<rect
+   id="_x23_background"
+   style="fill:#e4e4e4"
+   width="400"
+   height="302"
+   x="0"
+   y="0" />
+	
+	
+	
+	
+	<g
+   id="meegotouch-lockscreen-notification-background"
+   style="fill:#e4e4e4">
+		<path
+   d="m 106,241.5 c 0,3.85 -3.15,7 -7,7 H 47 c -3.85,0 -7,-3.15 -7,-7 v -26 c 0,-3.85 3.15,-7 7,-7 h 52 c 3.85,0 7,3.15 7,7 v 26 z"
+   id="path26" />
 	</g>
-	<g id="meegotouch-toolbar-textbutton-inverted-background-pressed">
-		<g style="fill:#E4E4E4;">
-			<path d="M266,87.5c0,7.15-5.85,13-13,13h-40c-7.149,0-13-5.85-13-13v-16c0-7.15,5.85-13,13-13h40c7.15,0,13,5.85,13,13V87.5z"/>
-		</g>
+	<g
+   id="meegotouch-tabbar-landscape-bottom-inverted-background"
+   style="fill:#1a1a1a">
+		<rect
+   x="120"
+   y="208.5"
+   width="132"
+   height="80"
+   id="rect29" />
 	</g>
-	<g id="meegotouch-toolbar-textbutton-inverted-background-disabled">
-		<g style="fill:#E4E4E4;">
-			<path d="M186,87.5c0,7.15-5.85,13-13,13h-40c-7.15,0-13-5.85-13-13v-16c0-7.15,5.85-13,13-13h40c7.15,0,13,5.85,13,13V87.5z"/>
-		</g>
-	</g>
-	<g id="meegotouch-toolbar-textbutton-inverted-background">
-		<g style="fill:#E4E4E4;">
-			<path d="M106,87.5c0,7.15-5.85,13-13,13H53c-7.15,0-13-5.85-13-13v-16c0-7.15,5.85-13,13-13h40c7.15,0,13,5.85,13,13V87.5z"/>
-		</g>
-	</g>
-	<g id="meegotouch-lockscreen-notification-background" style="fill:#E4E4E4;">
-		<path d="M106,241.5c0,3.85-3.15,7-7,7H47c-3.85,0-7-3.15-7-7v-26c0-3.85,3.15-7,7-7h52c3.85,0,7,3.15,7,7V241.5z"/>
-	</g>
-	<g id="meegotouch-tabbar-landscape-bottom-inverted-background" style="fill:#1A1A1A;">
-		<rect x="120" y="208.5" width="132" height="80"/>
-	</g>
-	<g id="meegotouch-tabbar-portrait-bottom-inverted-background" style="fill:#1A1A1A;">
-		<rect x="200" y="208.5" width="132" height="80"/>
+	<g
+   id="meegotouch-tabbar-portrait-bottom-inverted-background"
+   style="fill:#1a1a1a">
+		<rect
+   x="200"
+   y="208.5"
+   width="132"
+   height="80"
+   id="rect32" />
 	</g>
 </g>
 </svg>
