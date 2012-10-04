@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="800"
+   height="500"
+   id="svg5321">
+  <defs
+     id="defs5323" />
+  <metadata
+     id="metadata5326">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Denis Zalevskiy</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Copyright (C) 2012 Jolla Ltd.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-237.15625,-266.34375)"
+     id="layer1">
+    <g
+       transform="translate(-35.714286,-5.7142857)"
+       id="g7955">
+      <path
+         d="m 649.9375,338.4375 c -26.37133,73.55478 -52.57966,147.20038 -79,220.75 22.51304,-5.61471 45.0116,-11.28735 67.5,-17 -25.5491,61.48648 -52.52054,122.46667 -77,184.34375 -0.70001,5.39243 7.26897,6.66628 9.71875,2.53125 50.96481,-55.74737 100.81745,-112.30937 151.42389,-168.42409 33.50457,-37.38985 67.02745,-74.76334 100.51361,-112.16966 -37.11229,2.99733 -74.22714,5.96282 -111.34375,8.90625 27.64591,-40.07286 55.29118,-80.14617 82.9375,-120.21875 -48.09375,-0.009 -96.1875,-0.0217 -144.28125,-0.0312 l -0.33634,0.94174 -0.13241,0.37076 z"
+         id="path7947"
+         style="fill:#080000;fill-opacity:1;stroke:none" />
+      <path
+         d="m 654.63865,343.12641 -74.23633,207.53277 68.23206,-17.17537 -80.09807,189.93962 240.03589,-267.73841 -108.92745,8.72987 83.6193,-121.25642 z"
+         id="path7943"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         d="m 668.53637,354.52532 -70.64029,177.56442 73.7194,-14.39299 -69.61144,152.89919 171.73159,-200.25893 -98.63144,7.87285 79.04084,-123.82391 z"
+         id="path5329"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>
