@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   id="icon-m-status-menu-settings-layer"
+   xml:space="preserve"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs12">
+	
+	
+	
+</defs>
+<rect
+   width="48"
+   height="48"
+   x="0"
+   y="0"
+   id="rect4"
+   style="fill:none" /><circle
+   cx="24"
+   cy="24"
+   r="23.5"
+   id="circle6"
+   style="fill:#010101" />
+<path
+   d="M 24.001083,39 C 15.720833,39 9,32.5038 9,24.5007 9,20.5146 10.673904,16.9101 13.370993,14.2896 l 0.0127,0.012 c 0.545242,-0.7276 1.42589,-1.2051 2.42574,-1.2051 1.65603,0 3.00149,1.2984 3.00149,2.8991 0,0.9814 -0.50782,1.8464 -1.28061,2.3712 l 0.0106,0.01 c -1.6206,1.5775 -2.63529,3.7315 -2.63529,6.1234 0,4.825 4.07155,8.742 9.08701,8.742 5.01545,0 9.08489,-3.917 9.08489,-8.742 0,-2.183 -0.84942,-4.1626 -2.22889,-5.6918 -0.82058,-0.5176 -1.36739,-1.4093 -1.36739,-2.4264 0,-1.6006 1.34546,-2.9011 3.00149,-2.9011 0.8096,0 1.54084,0.3159 2.08071,0.8204 l 0.0423,-0.041 c 2.71292,2.623 4.39428,6.241 4.39428,10.2403 0,8.0031 -6.71872,14.4993 -14.99896,14.4993 z m -0.002,-14.3991 c -1.66204,0 -2.99937,-1.316 -2.99937,-2.9521 l 0,-11.6964 c 0,-1.6363 1.33733,-2.9524004 2.99937,-2.9524004 1.66202,0 3.00148,1.3161004 3.00148,2.9524004 l 0,11.6964 c 0,1.6361 -1.33946,2.9521 -3.00148,2.9521 z"
+   id="path8"
+   style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.80584431;marker:none;visibility:visible;display:inline" /></svg>
