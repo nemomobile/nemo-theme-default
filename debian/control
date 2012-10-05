@@ -1,9 +1,0 @@
-Source: meegotouchtheme-graphics
-Section: x11
-Priority: extra
-Maintainer: Daniel Borgmann <ext-daniel.borgmann@nokia.com>
-Standards-Version: 3.7.2
-
-Package: meegotouchtheme-graphics
-Architecture: all
-Description: Visual assets for meegotouchtheme
