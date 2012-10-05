@@ -8,5 +8,5 @@ on gitorius]]
 Whole theme is licensed under LGPL v2.1 terms. Original media files
 are licensed under LGPL v2.1 terms by default if there is no separate
 license referenced in media file meta. Otherwise media file license
-+must+ be compatible with theme license. See [[http://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses][information about L(GPL)
-compatibility]].
+*must* be compatible with theme license.
+See [[http://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses][information about L(GPL) compatibility]].
