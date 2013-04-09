@@ -1,6 +1,6 @@
 Name:       nemo-theme-default
 Summary:    Nemo Mobile default theme
-Version:    1.0.4
+Version:    1.0.5
 Release:    3
 Group:      System/GUI/Other
 License:    BSD/LGPLv2.1
@@ -20,7 +20,7 @@ Provides:  meegotouch-theme-ce = 0.1.26.1
 This package contains default theme graphic files.
 
 %prep
-%setup -q -n %{name}
+%setup -q -n %{name}-%{version}
 
 %build
 %qmake
