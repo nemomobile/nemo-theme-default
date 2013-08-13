@@ -37,7 +37,5 @@ rm -rf %{buildroot}
 %defattr(-,root,root,-)
 %{_datadir}/themes/base/index.theme
 %{_datadir}/themes/base/meegotouch/icons
-%{_datadir}/themes/base/meegotouch/svg
-%{_datadir}/themes/base/meegotouch/images
 
 
