@@ -8,7 +8,7 @@ BuildArch:  noarch
 URL:        https://github.com/nemomobile/nemo-theme-default
 Source0:    %{name}-%{version}.tar.bz2
 BuildRequires: fdupes
-BuildRequires: qt-devel
+BuildRequires: qt5-qmake
 Provides:   qt-components-base-icons
 Provides:   nemo-theme-graphics
 Provides:   meegotouch-theme-graphics = 1.0.3
@@ -23,13 +23,13 @@ This package contains default theme graphic files.
 %setup -q -n %{name}-%{version}
 
 %build
-%qmake
+%qmake5
 
 make %{?jobs:-j%jobs}
 
 %install
 rm -rf %{buildroot}
-%qmake_install
+%qmake5_install
 
 %fdupes  %{buildroot}%{_datadir}
 
@@ -37,7 +37,5 @@ rm -rf %{buildroot}
 %defattr(-,root,root,-)
 %{_datadir}/themes/base/index.theme
 %{_datadir}/themes/base/meegotouch/icons
-%{_datadir}/themes/base/meegotouch/svg
-%{_datadir}/themes/base/meegotouch/images
 
 
