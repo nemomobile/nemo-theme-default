@@ -7,6 +7,7 @@ License:    BSD/LGPLv2.1
 BuildArch:  noarch
 URL:        https://github.com/nemomobile/nemo-theme-default
 Source0:    %{name}-%{version}.tar.bz2
+Requires:   gconf
 BuildRequires: fdupes
 BuildRequires: qt5-qmake
 Provides:   qt-components-base-icons
@@ -32,6 +33,12 @@ rm -rf %{buildroot}
 %qmake5_install
 
 %fdupes  %{buildroot}%{_datadir}
+
+%post
+Config_Src=`/usr/bin/gconftool-2 --get-default-source`
+# Set/Override current theme name
+/usr/bin/gconftool-2 --direct --config-source $Config_Src \
+-s -t string /meegotouch/theme/name base
 
 %files
 %defattr(-,root,root,-)
