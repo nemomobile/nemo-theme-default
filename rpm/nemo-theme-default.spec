@@ -1,4 +1,8 @@
 Name:       nemo-theme-default
+# >> macros
+%define theme_name base
+# << macros
+
 Summary:    Nemo Mobile default theme
 Version:    1.0.5
 Release:    3
@@ -35,10 +39,17 @@ rm -rf %{buildroot}
 %fdupes  %{buildroot}%{_datadir}
 
 %post
+Theme_Key="/meegotouch/theme/name"
 Config_Src=`/usr/bin/gconftool-2 --get-default-source`
-# Set/Override current theme name
-/usr/bin/gconftool-2 --direct --config-source $Config_Src \
--s -t string /meegotouch/theme/name base
+
+Theme_Name=`/usr/bin/gconftool-2 --direct --config-source $Config_Src \
+            -g $Theme_Key`
+
+if [ -z $Theme_Name ]; then
+    echo "Setting theme name to %{theme_name}"
+    /usr/bin/gconftool-2 --direct --config-source $Config_Src \
+    -s -t string $Theme_Key %{theme_name}
+fi
 
 %files
 %defattr(-,root,root,-)
