@@ -14,4 +14,8 @@ bsd.files = bsd/icons
 bsd.path = $$THEME_DIR/base/meegotouch
 bsd.CONFIG += no_check_exist
 
-INSTALLS += index lgpl bsd
+dconf.files = nemo-theme-default.txt
+dconf.path = /etc/dconf/db/nemo.d/
+dconf.CONFIG += no_check_exist
+
+INSTALLS += index lgpl bsd dconf
