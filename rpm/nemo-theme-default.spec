@@ -1,8 +1,4 @@
 Name:       nemo-theme-default
-# >> macros
-%define theme_name base
-# << macros
-
 Summary:    Nemo Mobile default theme
 Version:    1.0.5
 Release:    3
@@ -11,7 +7,8 @@ License:    BSD/LGPLv2.1
 BuildArch:  noarch
 URL:        https://github.com/nemomobile/nemo-theme-default
 Source0:    %{name}-%{version}.tar.bz2
-Requires:   gconf
+Requires:   dconf
+Requires:   oneshot
 BuildRequires: fdupes
 BuildRequires: qt5-qmake
 Provides:   qt-components-base-icons
@@ -39,21 +36,10 @@ rm -rf %{buildroot}
 %fdupes  %{buildroot}%{_datadir}
 
 %post
-Theme_Key="/meegotouch/theme/name"
-Config_Src=`/usr/bin/gconftool-2 --get-default-source`
-
-Theme_Name=`/usr/bin/gconftool-2 --direct --config-source $Config_Src \
-            -g $Theme_Key`
-
-if [ -z $Theme_Name ]; then
-    echo "Setting theme name to %{theme_name}"
-    /usr/bin/gconftool-2 --direct --config-source $Config_Src \
-    -s -t string $Theme_Key %{theme_name}
-fi
+%{_bindir}/add-oneshot dconf-update
 
 %files
 %defattr(-,root,root,-)
 %{_datadir}/themes/base/index.theme
 %{_datadir}/themes/base/meegotouch/icons
-
-
+%{_sysconfdir}/dconf/db/nemo.d/nemo-theme-default.txt

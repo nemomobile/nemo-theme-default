@@ -1,0 +1,2 @@
+[meegotouch/theme]
+name='base'
